@@ -1,0 +1,1 @@
+A practice project made for The Odin Project using HTML to create a recipe website.
